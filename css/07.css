@@ -1,0 +1,11 @@
+.contenedor-responsive {
+    background-color: #ffffff;
+    /*
+    El 90% se ajusta al tamaño del contenedor y se vuelve 
+    un contenedor responsive
+    width: 90%;
+    max-width: 1000px;*/
+    width: min(90%, 1000px);
+    height: 400px;
+    margin: 0 auto;
+}

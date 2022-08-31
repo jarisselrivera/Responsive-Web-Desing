@@ -1,0 +1,30 @@
+/*
+
+Tamaños estandares eje. Boostrap 5
+576px, 768px, 992px y 1200px.
+
+*/
+
+@media (min-width: 576px) { 
+    h2 {
+        color: yellow;
+    };
+}
+
+@media (min-width: 768px) { 
+    h2 {
+        color: blue;
+    };
+}
+
+@media (min-width: 992px) { 
+    h2 {
+        color: tomato;
+    };
+}
+
+@media (min-width: 1200px) { 
+    h2 {
+        color: green;
+    };
+}

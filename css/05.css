@@ -1,0 +1,14 @@
+/* 
+precionamos -------- > ctrl + ship + p
+y escribimos --------> Snippets
+Seleccionamos -------> Configure User Snippets
+y buscamos ----------> Css.json
+Y creamos nuestros snippets -- Media Query con un prefijo
+*/
+
+@media (min-width: 600px) { 
+    .oferta {
+        background-color: blue;
+    }
+}
+
